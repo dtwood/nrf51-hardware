@@ -16,6 +16,5 @@ nrf51-atomic = { git = "https://github.com/dtwood/nrf51-atomic" }
 [build-dependencies]
 inflections = "*"
 quote = "*"
-regex = "*"
 svd-parser = "*"
 svd2rust = { git = "https://github.com/dtwood/svd2rust" }

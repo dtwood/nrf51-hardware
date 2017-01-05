@@ -1,4 +1,3 @@
-extern crate regex;
 extern crate svd2rust;
 extern crate svd_parser as svd;
 extern crate inflections;
