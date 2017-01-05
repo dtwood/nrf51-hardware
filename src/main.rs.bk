@@ -1,0 +1,6 @@
+#![no_std]
+#![feature(lang_items, asm)]
+
+extern crate nrf52;
+
+fn main() { }
