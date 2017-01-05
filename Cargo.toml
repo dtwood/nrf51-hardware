@@ -11,7 +11,7 @@ default = ["lazy_static/spin_no_std"]
 lazy_static = "*"
 spin = "*"
 volatile-register = "*"
-nrf51-atomic = { path = "../nrf51-atomic" }
+nrf51-atomic = { git = "https://github.com/dtwood/nrf51-atomic" }
 
 [build-dependencies]
 inflections = "*"
